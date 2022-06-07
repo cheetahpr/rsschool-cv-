@@ -27,3 +27,15 @@ print (e)
 print ((a+b+c)-(d+e))
 
 print (d) 
+```
+
+# Education 
+* [Поколение Python": курс для начинающих](https://stepik.org/course/58852)
+* [Компьютерная графика: основы](https://stepik.org/course/419)
+* [Грамматика Английского Языка](https://stepik.org/course/70675)
+* [Онлайн курс английского Intermediate](https://www.englishdom.com/courses/intermediate/)
+  
+# Languages
+Russian - Native
+
+English - B2
