@@ -1,6 +1,6 @@
 # Karina Teterevenkova
 
-## Contacts
+# Contacts
 
 * Telegram: @smthgreat
 * Discord: dzhoi#9494
